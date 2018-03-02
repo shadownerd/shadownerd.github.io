@@ -1,0 +1,41 @@
+{
+	"nodeData": 
+	[
+		{
+			"index" : 1,
+			"left" : 1000,
+			"right" : 2,
+			"top" : 3,
+			"bottom" : 1000,
+			"x" : 0,
+			"y" : 0
+		},
+		{
+			"index" : 2,
+			"left" : 1,
+			"right" : 1000,
+			"top" : 4,
+			"bottom" : 1000,
+			"x" : 5,
+			"y" : 0
+		},
+		{
+			"index" : 3,
+			"left" : 1000,
+			"right" : 4,
+			"top" : 1000,
+			"bottom" : 1,
+			"x" : 0,
+			"y" : 5
+		},
+		{
+			"index" : 4,
+			"left" : 3,
+			"right" : 1000,
+			"top" : 1000,
+			"bottom" : 2,
+			"x" : 5,
+			"y" : 5
+		}
+	]
+}
