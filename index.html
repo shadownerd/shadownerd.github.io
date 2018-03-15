@@ -166,7 +166,7 @@
         document.getElementById("progressBar").style.display = "inherit";
       }
     }
-    var gameInstance = UnityLoader.instantiate("gameContainer", "Build/Builds.json", {
+    var gameInstance = UnityLoader.instantiate("gameContainer", "Build/Build New.json", {
       onProgress: UnityProgress,
       Module: {
         onRuntimeInitialized: function() { UnityProgress(gameInstance, "complete") }
